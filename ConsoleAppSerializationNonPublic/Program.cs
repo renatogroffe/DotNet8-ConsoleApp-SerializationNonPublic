@@ -23,7 +23,6 @@ foreach (var coordenada in coordenadasIniciais)
 
 Console.WriteLine();
 Console.WriteLine("**** Iniciando desserializacao...");
-
 foreach (var json in coordenadasSerializadas)
 {
     Console.WriteLine();
